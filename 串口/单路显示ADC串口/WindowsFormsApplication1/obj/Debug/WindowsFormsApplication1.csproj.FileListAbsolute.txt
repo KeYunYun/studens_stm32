@@ -1,0 +1,9 @@
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\C#\串口\单路显示ADC串口\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
