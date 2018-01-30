@@ -1,0 +1,43 @@
+Dependencies for Project 'LED…¡À∏', Target 'Target 1': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x560E3567)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\stm32f10x.lst --xref -o .\stm32f10x.o --depend .\stm32f10x.d)
+F (.\User\system_stm32f10x.c)(0x560E3670)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\User-I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (User\stm32f10x.h)(0x560E3679)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (User\system_stm32f10x.h)(0x560E366F)
+F (.\User\clock.c)(0x560E3671)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\User-I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\clock.o --omf_browse .\clock.crf --depend .\clock.d)
+I (User\clock.h)(0x560E3671)
+I (.\User\stm32f10x.h)(0x560E3679)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (.\User\system_stm32f10x.h)(0x560E366F)
+F (.\User\led.c)(0x59EACFFA)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\User-I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (User\led.h)(0x560E3670)
+I (.\User\stm32f10x.h)(0x560E3679)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (.\User\system_stm32f10x.h)(0x560E366F)
+F (.\User\main.c)(0x572D7C74)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\User-I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (User\clock.h)(0x560E3671)
+I (.\User\stm32f10x.h)(0x560E3679)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (.\User\system_stm32f10x.h)(0x560E366F)
+I (User\led.h)(0x560E3670)
+I (User\daley.h)(0x560E3670)
+F (.\User\daley.c)(0x560E3670)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I .\User-I.\RTE\_Target_1-IE:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IE:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\daley.o --omf_browse .\daley.crf --depend .\daley.d)
+I (User\daley.h)(0x560E3670)
+I (.\User\stm32f10x.h)(0x560E3679)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h)(0x5898498A)
+I (E:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898498A)
+I (E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898498A)
+I (.\User\system_stm32f10x.h)(0x560E366F)

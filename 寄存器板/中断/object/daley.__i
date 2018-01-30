@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\User
+-I C:\Keil_v5\ARM\RV31\INC
+-I C:\Keil_v5\ARM\CMSIS\Include
+-I C:\Keil_v5\ARM\Inc\ST\STM32F10x
+-D__UVISION_VERSION="515" -DSTM32F10X_MD
+-o .\object\daley.o --omf_browse .\object\daley.crf --depend .\object\daley.d "User\daley.c"
